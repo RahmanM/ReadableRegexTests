@@ -1,0 +1,6 @@
+D:\rahman\ReadableRegexTests\ReadableRegexTests\bin\Debug\ReadableRegexTests.dll
+D:\rahman\ReadableRegexTests\ReadableRegexTests\bin\Debug\ReadableRegexTests.pdb
+D:\rahman\ReadableRegexTests\ReadableRegexTests\bin\Debug\FlimFlan.ReadableRex.dll
+D:\rahman\ReadableRegexTests\ReadableRegexTests\obj\Debug\ReadableRegexTests.csprojResolveAssemblyReference.cache
+D:\rahman\ReadableRegexTests\ReadableRegexTests\obj\Debug\ReadableRegexTests.dll
+D:\rahman\ReadableRegexTests\ReadableRegexTests\obj\Debug\ReadableRegexTests.pdb
